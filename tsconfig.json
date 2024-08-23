@@ -1,0 +1,35 @@
+{
+  "compilerOptions": {
+    "lib": [
+      "dom",
+      "dom.iterable",
+      "esnext"
+    ],
+    "allowJs": true,
+    "skipLibCheck": true,
+    "strict": false,
+    "noEmit": true,
+    "incremental": true,
+    "module": "esnext",
+    "esModuleInterop": true,
+    "moduleResolution": "node",
+    "resolveJsonModule": true,
+    "isolatedModules": true,
+    "jsx": "preserve",
+    "plugins": [
+      {
+        "name": "next"
+      }
+    ],
+    "strictNullChecks": true
+  },
+  "include": [
+    "next-env.d.ts",
+    ".next/types/**/*.ts",
+    "**/*.ts",
+    "**/*.tsx"
+, "src/components/navigations/navbar.js", "src/components/navigations/footer.js", "src/components/home/build-your-business/index.js", "src/components/home/build-your-business/image-box.js", "src/components/home/build-your-dream/index.js", "src/components/home/build-your-dream/dream-slides.js", "src/components/home/hero/trusted-by.js", "src/components/home/hero/hero.js", "src/components/home/hero/hero-card.js", "src/components/home/network/network-cards.js", "src/components/home/network/index.js", "src/components/home/ui/square-button.js", "src/components/home/ui/rounded-button.js", "src/components/home/ui/mode-switch-button.js", "src/components/home/vision.js", "src/components/home/review.js", "src/components/home/launch-feature.js", "src/components/home/founder.js", "src/components/home/community.js"  ],
+  "exclude": [
+    "node_modules"
+  ]
+}
