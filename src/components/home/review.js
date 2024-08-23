@@ -16,7 +16,7 @@ const Review = () => {
           </div>
         </div>
         <h2 className="text-[26px] font-bold text-[#344054] dark:text-white md:mt-5 md:text-4xl md:leading-[54px]">
-          " Take Our Idea And Turn It into A Solid Business "
+          &quot; Take Our Idea And Turn It into A Solid Business &quot;
         </h2>
         <p className="m-auto mt-2.5 max-w-[90%] text-sm font-light text-[#344054] dark:opacity-75 dark:font-extralight dark:text-white md:mt-[36px] md:max-w-[734px] md:text-xl md:leading-6">
           By helping us find the right team member, DoCreatorsLab really did
